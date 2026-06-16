@@ -1,4 +1,5 @@
-using Weather.MinimalApi;
+
+using Weather.Fluent.Extensions;
 
 namespace Weather.Fluent
 {
@@ -10,14 +11,7 @@ namespace Weather.Fluent
 
             var app = builder.Build();
 
-            app.MapGet("/weather", () =>
-            {
-                return WeatherData.GetAll();
-            });
-
-            app.MapGet("/weather/{city}", (string city) => {
-                return WeatherData.GetAll().Where(x => x.City.Equals(city, StringComparison.OrdinalIgnoreCase));
-            });
+            app.MapWeather();
 
             app.UseHttpsRedirection();
 

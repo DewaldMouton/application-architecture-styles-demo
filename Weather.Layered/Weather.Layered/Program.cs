@@ -1,4 +1,9 @@
 
+using Weather.Layered.Repositories;
+using Weather.Layered.Repositories.Contracts;
+using Weather.Layered.Services;
+using Weather.Layered.Services.Contracts;
+
 namespace Weather.Layered
 {
     public class Program
@@ -9,7 +14,8 @@ namespace Weather.Layered
 
             builder.Services.AddControllers();
 
-            // Register dependencies
+            builder.Services.AddTransient<IWeatherService, WeatherService>();
+            builder.Services.AddSingleton<IWeatherRepository, WeatherRepository>();
 
             var app = builder.Build();
 

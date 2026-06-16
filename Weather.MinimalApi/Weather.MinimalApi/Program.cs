@@ -9,11 +9,23 @@ namespace Weather.MinimalApi
 
             var app = builder.Build();
 
-            // Add routes
+            BuildRoutes(app);
 
             app.UseHttpsRedirection();
 
             app.Run();
+        }
+
+        private static void BuildRoutes(WebApplication app)
+        {
+            app.MapGet("/weather", () =>
+            {
+                return WeatherData.GetAll();
+            });
+
+            app.MapGet("/weather/{city}", (string city) => {
+                return WeatherData.GetAll().Where(x => x.City.Equals(city, StringComparison.OrdinalIgnoreCase));
+            });
         }
     }
 }

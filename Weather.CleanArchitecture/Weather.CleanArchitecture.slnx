@@ -1,6 +1,6 @@
 <Solution>
-  <Folder Name="/Solution Items/">
-    <File Path="resources.txt" />
-  </Folder>
+  <Project Path="Weather.Application/Weather.CleanArchitecture.Application.csproj" />
   <Project Path="Weather.CleanArchitecture/Weather.CleanArchitecture.Api.csproj" />
+  <Project Path="Weather.Domain/Weather.CleanArchitecture.Domain.csproj" />
+  <Project Path="Weather.Infrastructure/Weather.CleanArchitecture.Infrastructure.csproj" />
 </Solution>

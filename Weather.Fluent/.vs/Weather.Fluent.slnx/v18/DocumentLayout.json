@@ -1,9 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\mouto\\source\\repos\\application-architecture-styles-demo\\Weather.Fluent\\",
+  "WorkspaceRootPath": "C:\\Users\\mouto\\source\\repos\\application-architecture-styles-complete\\Weather.Fluent\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EC2A011E-02EF-3171-F5A2-D92A10414D65}|Weather.Fluent\\Weather.Fluent.csproj|c:\\users\\mouto\\source\\repos\\application-architecture-styles-demo\\weather.fluent\\weather.fluent\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EC2A011E-02EF-3171-F5A2-D92A10414D65}|Weather.Fluent\\Weather.Fluent.csproj|c:\\users\\mouto\\source\\repos\\application-architecture-styles-complete\\weather.fluent\\weather.fluent\\extensions\\weatherendpointextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC2A011E-02EF-3171-F5A2-D92A10414D65}|Weather.Fluent\\Weather.Fluent.csproj|solutionrelative:weather.fluent\\extensions\\weatherendpointextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC2A011E-02EF-3171-F5A2-D92A10414D65}|Weather.Fluent\\Weather.Fluent.csproj|c:\\users\\mouto\\source\\repos\\application-architecture-styles-complete\\weather.fluent\\weather.fluent\\extensions\\endpointfluentextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC2A011E-02EF-3171-F5A2-D92A10414D65}|Weather.Fluent\\Weather.Fluent.csproj|solutionrelative:weather.fluent\\extensions\\endpointfluentextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC2A011E-02EF-3171-F5A2-D92A10414D65}|Weather.Fluent\\Weather.Fluent.csproj|c:\\users\\mouto\\source\\repos\\application-architecture-styles-complete\\weather.fluent\\weather.fluent\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EC2A011E-02EF-3171-F5A2-D92A10414D65}|Weather.Fluent\\Weather.Fluent.csproj|solutionrelative:weather.fluent\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -19,15 +27,39 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\mouto\\source\\repos\\application-architecture-styles-demo\\Weather.Fluent\\Weather.Fluent\\Program.cs",
-              "RelativeDocumentMoniker": "Weather.Fluent\\Program.cs",
-              "ToolTip": "C:\\Users\\mouto\\source\\repos\\application-architecture-styles-demo\\Weather.Fluent\\Weather.Fluent\\Program.cs",
-              "RelativeToolTip": "Weather.Fluent\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAANAAAAAAAAAA==",
+              "Title": "WeatherEndpointExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\mouto\\source\\repos\\application-architecture-styles-complete\\Weather.Fluent\\Weather.Fluent\\Extensions\\WeatherEndpointExtensions.cs",
+              "RelativeDocumentMoniker": "Weather.Fluent\\Extensions\\WeatherEndpointExtensions.cs",
+              "ToolTip": "C:\\Users\\mouto\\source\\repos\\application-architecture-styles-complete\\Weather.Fluent\\Weather.Fluent\\Extensions\\WeatherEndpointExtensions.cs",
+              "RelativeToolTip": "Weather.Fluent\\Extensions\\WeatherEndpointExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-29T09:04:14.847Z",
+              "WhenOpened": "2026-05-29T09:04:23.776Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EndpointFluentExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\mouto\\source\\repos\\application-architecture-styles-complete\\Weather.Fluent\\Weather.Fluent\\Extensions\\EndpointFluentExtensions.cs",
+              "RelativeDocumentMoniker": "Weather.Fluent\\Extensions\\EndpointFluentExtensions.cs",
+              "ToolTip": "C:\\Users\\mouto\\source\\repos\\application-architecture-styles-complete\\Weather.Fluent\\Weather.Fluent\\Extensions\\EndpointFluentExtensions.cs",
+              "RelativeToolTip": "Weather.Fluent\\Extensions\\EndpointFluentExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T09:04:20.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mouto\\source\\repos\\application-architecture-styles-complete\\Weather.Fluent\\Weather.Fluent\\Program.cs",
+              "RelativeDocumentMoniker": "Weather.Fluent\\Program.cs",
+              "ToolTip": "C:\\Users\\mouto\\source\\repos\\application-architecture-styles-complete\\Weather.Fluent\\Weather.Fluent\\Program.cs",
+              "RelativeToolTip": "Weather.Fluent\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T09:04:14.847Z"
             }
           ]
         }
