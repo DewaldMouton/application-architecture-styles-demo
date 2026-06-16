@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\mouto\\source\\repos\\application-architecture-styles-demo\\Weather.MinimalApi\\",
+  "WorkspaceRootPath": "C:\\Users\\mouto\\source\\repos\\application-architecture-styles-complete\\Weather.MinimalApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CA9920C8-9EE1-46F9-008F-749986C08C92}|Weather.MinimalApi\\Weather.MinimalApi.csproj|c:\\users\\mouto\\source\\repos\\application-architecture-styles-demo\\weather.minimalapi\\weather.minimalapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CA9920C8-9EE1-46F9-008F-749986C08C92}|Weather.MinimalApi\\Weather.MinimalApi.csproj|c:\\users\\mouto\\source\\repos\\application-architecture-styles-complete\\weather.minimalapi\\weather.minimalapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CA9920C8-9EE1-46F9-008F-749986C08C92}|Weather.MinimalApi\\Weather.MinimalApi.csproj|solutionrelative:weather.minimalapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA9920C8-9EE1-46F9-008F-749986C08C92}|Weather.MinimalApi\\Weather.MinimalApi.csproj|c:\\users\\mouto\\source\\repos\\application-architecture-styles-demo\\weather.minimalapi\\weather.minimalapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CA9920C8-9EE1-46F9-008F-749986C08C92}|Weather.MinimalApi\\Weather.MinimalApi.csproj|c:\\users\\mouto\\source\\repos\\application-architecture-styles-complete\\weather.minimalapi\\weather.minimalapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CA9920C8-9EE1-46F9-008F-749986C08C92}|Weather.MinimalApi\\Weather.MinimalApi.csproj|solutionrelative:weather.minimalapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA9920C8-9EE1-46F9-008F-749986C08C92}|Weather.MinimalApi\\Weather.MinimalApi.csproj|c:\\users\\mouto\\source\\repos\\application-architecture-styles-demo\\weather.minimalapi\\weather.minimalapi\\weatherdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CA9920C8-9EE1-46F9-008F-749986C08C92}|Weather.MinimalApi\\Weather.MinimalApi.csproj|c:\\users\\mouto\\source\\repos\\application-architecture-styles-complete\\weather.minimalapi\\weather.minimalapi\\weatherdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CA9920C8-9EE1-46F9-008F-749986C08C92}|Weather.MinimalApi\\Weather.MinimalApi.csproj|solutionrelative:weather.minimalapi\\weatherdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -28,11 +28,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\mouto\\source\\repos\\application-architecture-styles-demo\\Weather.MinimalApi\\Weather.MinimalApi\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\mouto\\source\\repos\\application-architecture-styles-complete\\Weather.MinimalApi\\Weather.MinimalApi\\Program.cs",
               "RelativeDocumentMoniker": "Weather.MinimalApi\\Program.cs",
-              "ToolTip": "C:\\Users\\mouto\\source\\repos\\application-architecture-styles-demo\\Weather.MinimalApi\\Weather.MinimalApi\\Program.cs",
+              "ToolTip": "C:\\Users\\mouto\\source\\repos\\application-architecture-styles-complete\\Weather.MinimalApi\\Weather.MinimalApi\\Program.cs",
               "RelativeToolTip": "Weather.MinimalApi\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-27T18:52:21.181Z",
               "EditorCaption": ""
@@ -41,9 +41,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "WeatherForecast.cs",
-              "DocumentMoniker": "C:\\Users\\mouto\\source\\repos\\application-architecture-styles-demo\\Weather.MinimalApi\\Weather.MinimalApi\\WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\mouto\\source\\repos\\application-architecture-styles-complete\\Weather.MinimalApi\\Weather.MinimalApi\\WeatherForecast.cs",
               "RelativeDocumentMoniker": "Weather.MinimalApi\\WeatherForecast.cs",
-              "ToolTip": "C:\\Users\\mouto\\source\\repos\\application-architecture-styles-demo\\Weather.MinimalApi\\Weather.MinimalApi\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\mouto\\source\\repos\\application-architecture-styles-complete\\Weather.MinimalApi\\Weather.MinimalApi\\WeatherForecast.cs",
               "RelativeToolTip": "Weather.MinimalApi\\WeatherForecast.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -53,9 +53,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "WeatherData.cs",
-              "DocumentMoniker": "C:\\Users\\mouto\\source\\repos\\application-architecture-styles-demo\\Weather.MinimalApi\\Weather.MinimalApi\\WeatherData.cs",
+              "DocumentMoniker": "C:\\Users\\mouto\\source\\repos\\application-architecture-styles-complete\\Weather.MinimalApi\\Weather.MinimalApi\\WeatherData.cs",
               "RelativeDocumentMoniker": "Weather.MinimalApi\\WeatherData.cs",
-              "ToolTip": "C:\\Users\\mouto\\source\\repos\\application-architecture-styles-demo\\Weather.MinimalApi\\Weather.MinimalApi\\WeatherData.cs",
+              "ToolTip": "C:\\Users\\mouto\\source\\repos\\application-architecture-styles-complete\\Weather.MinimalApi\\Weather.MinimalApi\\WeatherData.cs",
               "RelativeToolTip": "Weather.MinimalApi\\WeatherData.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

@@ -1,3 +1,8 @@
+using Weather.CleanArchitecture.Application.Managers;
+using Weather.CleanArchitecture.Application.Managers.Contracts;
+using Weather.CleanArchitecture.Infrastructure.Repositories;
+using Weather.CleanArchitecture.Infrastructure.Repositories.Contracts;
+
 namespace Weather.CleanArchitecture.Api
 {
     public class Program
@@ -8,7 +13,8 @@ namespace Weather.CleanArchitecture.Api
 
             builder.Services.AddControllers();
 
-            // Add dependencies
+            builder.Services.AddTransient<IWeatherForecastManager, WeatherForecastManager>();
+            builder.Services.AddSingleton<IWeatherForecastRepository, WeatherForecastRepository>();
 
             var app = builder.Build();
 
